@@ -2,7 +2,7 @@
 
 -- Prepare a name for the new Evernote note
 set theNoteName to "OmniFocus Completed Task Report"
-set theNotebookName to ".Inbox"
+set theNotebookName to "[Inbox]"
 
 -- Prompt the user to choose a scope for the report
 activate
